@@ -1,6 +1,6 @@
 # Boligfiduser.dk
 
-> Uafhængig dansk prisguide til byggeri og renovering. Estimerede 2026-priser inkl. moms på 55 ydelser, prisberegnere, guides om fradrag og tilbud. Redaktør: Emil Rostgaard Clausen.
+> Uafhængig dansk prisguide til byggeri og renovering. Estimerede 2026-priser inkl. moms på 55 ydelser, prisberegnere, guides om fradrag og tilbud. Udgivet af Boligfiduser-redaktionen.
 
 ## Ydelser og priser
 - [Tagrenovering](https://boligfiduser.dk/tag-facade/tagrenovering/): fra 700 kr./m²; typisk 130.000–260.000 kr. for et 140 m² parcelhustag
