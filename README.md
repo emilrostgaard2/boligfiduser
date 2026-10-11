@@ -16,5 +16,4 @@ Alternativt: Upload filerne direkte til public_html via Simplys filhåndtering e
 ## Efter upload
 - Aktivér gratis SSL (Let's Encrypt) i Simply-kontrolpanelet.
 - Tilføj siden i Google Search Console og indsend https://boligfiduser.dk/sitemap.xml
-- Når du har en e-mail på domænet, kan den tilføjes på kontaktsiden og i footeren.
 - Tilføj et rigtigt portrætfoto af Emil på forfattersiden for stærkere E-E-A-T.

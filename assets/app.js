@@ -66,6 +66,7 @@ function onScroll(){
 w.addEventListener("scroll",function(){if(!ticking){w.requestAnimationFrame(onScroll);ticking=true}},{passive:true});
 if(mcta)d.body.classList.add("has-mcta");
 if(helper){
+  if(w.innerWidth>1060&&$(".aside"))helper.classList.add("min");
   var tips=JSON.parse(helper.getAttribute("data-tips")||"[]"),ti=0,tp=$(".tip",helper);
   $(".x",helper).addEventListener("click",function(){helper.classList.remove("show");sstore("helperClosed","1")});
   $(".kl",helper).addEventListener("click",function(){if(helper.classList.contains("min")){helper.classList.remove("min")}else if(tips.length>1){ti=(ti+1)%tips.length;tp.textContent=tips[ti]}});
