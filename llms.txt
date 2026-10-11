@@ -1,0 +1,82 @@
+# Boligfiduser.dk
+
+> Uafhængig dansk prisguide til byggeri og renovering. Estimerede 2026-priser inkl. moms på 55 ydelser, prisberegnere, guides om fradrag og tilbud. Redaktør: Emil Rostgaard Clausen (Emro Media, CVR 46727533).
+
+## Ydelser og priser
+- [Tagrenovering](https://boligfiduser.dk/tag-facade/tagrenovering/): fra 700 kr./m²; typisk 130.000–260.000 kr. for et 140 m² parcelhustag
+- [Tagmaling & tagafrensning](https://boligfiduser.dk/tag-facade/tagmaling/): fra 110 kr./m²; typisk 18.000–38.000 kr. for et 140 m² betontag
+- [Facaderenovering](https://boligfiduser.dk/tag-facade/facaderenovering/): fra 450 kr./m²; typisk 100.000–220.000 kr. for 160 m² facade med ny puds
+- [Facademaling](https://boligfiduser.dk/tag-facade/facademaling/): fra 150 kr./m²; typisk 30.000–65.000 kr. for 160 m² facade
+- [Omfugning af hus](https://boligfiduser.dk/tag-facade/omfugning/): fra 450 kr./m²; typisk 75.000–150.000 kr. for 150 m² mur
+- [Sandblæsning af hus](https://boligfiduser.dk/tag-facade/sandblaesning/): fra 120 kr./m²; typisk 25.000–60.000 kr. for 150 m² facade
+- [Algerens](https://boligfiduser.dk/tag-facade/algerens/): fra 20 kr./m²; typisk 4.000–12.000 kr. for et 140 m² tag
+- [Altaner](https://boligfiduser.dk/tag-facade/altaner/): fra 45.000 kr.; typisk 90.000–180.000 kr. pr. altan i etageejendom inkl. montering
+- [Varmepumpe luft-til-vand](https://boligfiduser.dk/energi/varmepumpe-luft-til-vand/): fra 75.000 kr.; typisk 95.000–125.000 kr. for et 140 m² parcelhus inkl. installation
+- [Varmepumpe luft-til-luft](https://boligfiduser.dk/energi/varmepumpe-luft-til-luft/): fra 14.000 kr.; typisk 18.000–26.000 kr. for et anlæg med én indedel inkl. montering
+- [Jordvarme](https://boligfiduser.dk/energi/jordvarme/): fra 120.000 kr.; typisk 140.000–175.000 kr. for et 150 m² parcelhus med jordslanger
+- [Solceller](https://boligfiduser.dk/energi/solceller/): fra 45.000 kr.; typisk 60.000–85.000 kr. for et 6 kW anlæg på parcelhus
+- [Isolering](https://boligfiduser.dk/energi/isolering/): fra 150 kr./m²; typisk 35.000–65.000 kr. for loft og hulmur i et 140 m² parcelhus
+- [Loftisolering](https://boligfiduser.dk/energi/loftisolering/): fra 180 kr./m²; typisk 20.000–35.000 kr. for 100 m² loft med 200 mm ekstra
+- [Hulmursisolering](https://boligfiduser.dk/energi/hulmursisolering/): fra 160 kr./m²; typisk 18.000–38.000 kr. for et parcelhus med ca. 115 m² hulmur
+- [Nye vinduer](https://boligfiduser.dk/energi/vinduer/): fra 6.500 kr. pr. vindue; typisk 110.000–240.000 kr. for et parcelhus med 12–15 vinduer og en terrassedør
+- [Energimærke](https://boligfiduser.dk/energi/energimaerke/): fra 4.500 kr.; typisk 5.500–8.000 kr. for et parcelhus på 140 m²
+- [Faldstammerenovering](https://boligfiduser.dk/kloak-fugt/faldstammerenovering/): fra 35.000 kr. pr. lejlighed; typisk 120.000–300.000 kr. pr. lejlighed ved udskiftning inkl. nyt bad
+- [Kloakrenovering](https://boligfiduser.dk/kloak-fugt/kloakrenovering/): fra 2.500 kr./m; typisk 50.000–160.000 kr. for 20–30 meter kloak ved et parcelhus
+- [Strømpeforing](https://boligfiduser.dk/kloak-fugt/stroempeforing/): fra 2.000 kr./m; typisk 35.000–90.000 kr. for 15–25 meter kloak ved et parcelhus
+- [TV-inspektion af kloak](https://boligfiduser.dk/kloak-fugt/tv-inspektion/): fra 2.500 kr.; typisk 3.000–5.000 kr. for et parcelhus inkl. spuling og rapport
+- [Omfangsdræn](https://boligfiduser.dk/kloak-fugt/omfangsdraen/): fra 1.200 kr./lbm; typisk 70.000–150.000 kr. for et parcelhus med ca. 50 m sokkel uden kælder
+- [Faskine & regnvandsanlæg](https://boligfiduser.dk/kloak-fugt/faskine/): fra 9.000 kr.; typisk 25.000–60.000 kr. for et parcelhus med 150 m² tag
+- [Vandskade](https://boligfiduser.dk/kloak-fugt/vandskade/): fra 8.000 kr.; typisk 60.000–250.000 kr. for udtørring og genopretning af et skadet rum
+- [Skimmelsvamp](https://boligfiduser.dk/kloak-fugt/skimmelsvamp/): fra 4.500 kr.; typisk 20.000–80.000 kr. for sanering af et loftrum eller en kælder
+- [Fundament](https://boligfiduser.dk/kloak-fugt/fundament/): fra 900 kr./lbm; typisk 60.000–250.000 kr. for understøbning af en hushjørne eller facadestrækning
+- [Badeværelsesrenovering](https://boligfiduser.dk/renovering/badevaerelse/): fra 20.000 kr./m²; typisk 110.000–180.000 kr. for et badeværelse på 5 m²
+- [Gulvarbejde](https://boligfiduser.dk/renovering/gulvarbejde/): fra 175 kr./m²; typisk 30.000–55.000 kr. for nyt egeplankegulv på 40 m² inkl. lægning
+- [Renovering af trappeopgang](https://boligfiduser.dk/renovering/trappeopgang/): fra 45.000 kr. pr. opgang; typisk 120.000–250.000 kr. for en opgang i 4 etager med maling, nyt lys og trappeslibning
+- [Dørtelefonanlæg](https://boligfiduser.dk/renovering/doertelefonanlaeg/): fra 2.500 kr. pr. lejlighed; typisk 45.000–80.000 kr. for en opgang med 8 lejligheder og videoanlæg
+- [Asbestsanering](https://boligfiduser.dk/renovering/asbestsanering/): fra 250 kr./m²; typisk 35.000–85.000 kr. for nedtagning af et 140 m² eternittag
+- [Nedrivning](https://boligfiduser.dk/renovering/nedrivning/): fra 450 kr./m²; typisk 90.000–220.000 kr. for et parcelhus på 140 m² inkl. bortskaffelse
+- [Totalentreprise](https://boligfiduser.dk/renovering/totalentreprise/): fra 8 % af byggesummen; typisk 100.000–250.000 kr. i projektering og styring for en tilbygning på 1,2–1,8 mio. kr.
+- [Tilbygning](https://boligfiduser.dk/renovering/tilbygning/): fra 22.000 kr./m²; typisk 700.000–1.200.000 kr. for en tilbygning på 30 m²
+- [Udestue](https://boligfiduser.dk/renovering/udestue/): fra 6.000 kr./m²; typisk 90.000–210.000 kr. for en uopvarmet udestue på 15 m²
+- [Carport & garage](https://boligfiduser.dk/renovering/carport-garage/): fra 35.000 kr.; typisk 60.000–140.000 kr. for en dobbelt carport med redskabsrum
+- [Bygherrerådgivning](https://boligfiduser.dk/renovering/bygherraadgivning/): fra 950 kr./time; typisk 40.000–110.000 kr. for rådgivning på en tilbygning til 1 mio. kr.
+- [Byggesagkyndig](https://boligfiduser.dk/renovering/byggesagkyndig/): fra 3.500 kr.; typisk 5.000–9.000 kr. for en byggeteknisk gennemgang af et parcelhus
+- [Håndværkertilbud](https://boligfiduser.dk/haandvaerkere/haandvaerker/): fra 450 kr./time; typisk 550–750 kr. i timen for tømrer eller murer inkl. moms
+- [Byggetilbud](https://boligfiduser.dk/haandvaerkere/byggetilbud/): fra 0 kr. at indhente; typisk Prisforskel på 20–40 % mellem laveste og højeste af 3 tilbud
+- [Tømrer](https://boligfiduser.dk/haandvaerkere/toemrer/): fra 550 kr./time; typisk 550–750 kr. i timen inkl. moms og 4.000–5.500 kr. pr. dagsværk
+- [Murer](https://boligfiduser.dk/haandvaerkere/murer/): fra 550 kr./time; typisk 550–750 kr. i timen inkl. moms – 60.000–140.000 kr. for omfugning af et parcelhus
+- [Elektriker](https://boligfiduser.dk/haandvaerkere/elektriker/): fra 550 kr./time; typisk 1.500–6.000 kr. for mindre opgaver; 90.000–180.000 kr. for total elrenovering af et parcelhus
+- [VVS-installatør](https://boligfiduser.dk/haandvaerkere/vvs/): fra 575 kr./time; typisk 2.000–8.000 kr. for almindelige VVS-opgaver; 60.000–150.000 kr. for VVS i et nyt badeværelse
+- [Maler](https://boligfiduser.dk/haandvaerkere/maler/): fra 75 kr./m²; typisk 35.000–65.000 kr. for indvendig maling af en lejlighed på 80 m²
+- [Glarmester](https://boligfiduser.dk/haandvaerkere/glarmester/): fra 1.200 kr. pr. rude; typisk 1.200–3.500 kr. pr. udskiftet termorude på ca. 1 m²
+- [Handyman](https://boligfiduser.dk/haandvaerkere/handyman/): fra 395 kr./time; typisk 1.000–4.800 kr. for et besøg med samlede småopgaver
+- [Belægning & brolægning](https://boligfiduser.dk/have-ejendom/belaegning/): fra 650 kr./m²; typisk 35.000–60.000 kr. for en 50 m² indkørsel med betonsten
+- [Hegn](https://boligfiduser.dk/have-ejendom/hegn/): fra 550 kr./lbm; typisk 30.000–48.000 kr. for 30 meter plankeværk i 1,8 meters højde
+- [Gartner](https://boligfiduser.dk/have-ejendom/gartner/): fra 450 kr./time; typisk 12.000–25.000 kr. om året for en fast aftale på en parcelhushave
+- [Anlægsarbejde](https://boligfiduser.dk/have-ejendom/anlaegsarbejde/): fra 550 kr./time; typisk 80.000–200.000 kr. for en haveomlægning på ca. 100 m²
+- [Tilstandsrapport](https://boligfiduser.dk/have-ejendom/tilstandsrapport/): fra 5.500 kr.; typisk 8.500–16.000 kr. for tilstandsrapport og elinstallationsrapport til et parcelhus
+- [Eltjek](https://boligfiduser.dk/have-ejendom/eltjek/): fra 1.800 kr.; typisk 2.500–5.000 kr. for en elinstallationsrapport til et parcelhus
+- [Vedligeholdelsesplan](https://boligfiduser.dk/have-ejendom/vedligeholdelsesplan/): fra 15.000 kr.; typisk 25.000–45.000 kr. for en ejendom med 20–40 boliger
+- [Ejendomsservice & vicevært](https://boligfiduser.dk/have-ejendom/ejendomsservice/): fra 425 kr./time; typisk 2.500–6.000 kr. pr. lejlighed om året for en fast serviceaftale
+
+## Guides
+- [Hvad koster et nyt tag? Priser pr. tagtype og m²](https://boligfiduser.dk/guides/hvad-koster-nyt-tag/): Et nyt tag koster typisk 750–2.400 kr. pr. m² inkl. moms i 2026, afhængigt af tagtype. Et 140 m² parcelhustag med betontagsten lander ofte på 150.000–210.000 kr., mens tegl koster 200.000–300.000 kr. De største prisdrive
+- [Tegltag, ståltag, eternit eller tagpap – hvad skal du vælge?](https://boligfiduser.dk/guides/tegltag-staaltag-eller-tagpap/): Tegltag koster 1.400–2.100 kr./m² og holder 60–80 år, betontagsten 1.050–1.500 kr./m² og 40–50 år, ståltag 900–1.400 kr./m² og 40–60 år, fibercement 950–1.400 kr./m² og 40–50 år, mens tagpap koster 750–1.200 kr./m² og ho
+- [Pris på nye vinduer til et parcelhus (eksempler)](https://boligfiduser.dk/guides/pris-paa-nye-vinduer-parcelhus/): Nye vinduer til et parcelhus koster typisk 5.500–16.000 kr. pr. vindue inkl. montering og moms i 2026. Et parcelhus på 140 m² med 14 vinduer og en terrassedør lander ofte på 120.000–230.000 kr. Prisen afhænger mest af ma
+- [Varmepumpe: tilskud, fradrag og tilbagebetalingstid](https://boligfiduser.dk/guides/varmepumpe-tilskud-og-fradrag/): I 2026 kan boligejere med olie-, gas-, el- eller træpillefyr uden for fjernvarmeområder søge op til 27.000 kr. fra Energistyrelsens varmepumpepulje til en luft-til-vand- eller jordvarmepumpe. Tilskuddet kan ikke kombiner
+- [Fra oliefyr eller gasfyr til varmepumpe – trin for trin](https://boligfiduser.dk/guides/fra-oliefyr-til-varmepumpe/): Et skift fra oliefyr eller gasfyr til luft-til-vand-varmepumpe koster typisk 95.000–170.000 kr. inkl. moms i 2026, når fjernelse af fyr, sløjfning af olietank eller afkobling af gas og eventuelle radiatorudskiftninger er
+- [Solceller: kan det betale sig? Tilbagebetalingstid 2026](https://boligfiduser.dk/guides/solceller-tilbagebetalingstid/): Et 6 kW solcelleanlæg uden batteri koster typisk 55.000–80.000 kr. inkl. moms og montering i 2026. Med den lave elafgift i 2026–2027 er værdien af egen strøm faldet til cirka 1,40–1,90 kr./kWh, så tilbagebetalingstiden l
+- [Hvad koster et nyt badeværelse? 4, 6 og 8 m²](https://boligfiduser.dk/guides/pris-paa-nyt-badevaerelse/): Et nyt badeværelse koster typisk 110.000–170.000 kr. for 4 m², 140.000–230.000 kr. for 6 m² og 180.000–300.000 kr. for 8 m² inkl. moms i 2026. Det svarer til 25.000–40.000 kr. pr. m² for en totalrenovering. Prisen styres
+- [Tilbygning: pris pr. m² og hvad der påvirker prisen](https://boligfiduser.dk/guides/tilbygning-pris-pr-m2/): En tilbygning koster typisk 18.000–32.000 kr. pr. m² inkl. moms i 2026 for en nøglefærdig løsning i én etage. En 30 m² tilbygning ender derfor ofte på 600.000–900.000 kr. inklusive rådgivning og byggetilladelse. De størs
+- [Faldstammer i andelsbolig og ejerforening](https://boligfiduser.dk/guides/faldstammer-andelsbolig/): En faldstammerenovering i en andels- eller ejerforening koster typisk 35.000–70.000 kr. pr. lejlighed ved strømpeforing og 90.000–200.000 kr. pr. lejlighed ved traditionel udskiftning med nyt badeværelse, inkl. moms i 20
+- [Altan til lejlighed: pris, tilladelser og proces](https://boligfiduser.dk/guides/altan-til-lejlighed/): En ny altan til en lejlighed koster typisk 110.000–200.000 kr. pr. altan inkl. moms i 2026, når flere altaner bygges i et fællesprojekt, og 180.000–320.000 kr. for en enkelt altan. Prisen afhænger især af altantype, anta
+- [Hvad koster en carport? Priser 2026](https://boligfiduser.dk/guides/pris-paa-carport/): En enkelt carport på ca. 3 x 6 meter koster typisk 35.000–70.000 kr. inkl. moms, når en tømrer opfører den nøglefærdig. En dobbelt carport på 6 x 6 meter koster 65.000–130.000 kr., og med redskabsrum lander prisen ofte p
+- [Skimmelsvamp og fugt i kælderen – årsager og løsninger](https://boligfiduser.dk/guides/skimmelsvamp-i-kaelderen/): Skimmelsvamp i kælderen skyldes næsten altid fugt fra jorden, utætte vægge eller kondens fra varm sommerluft. Afrensning koster typisk 300–900 kr./m² vægflade, en affugter 3.000–12.000 kr., og et nyt omfangsdræn om et pa
+- [Håndværkerfradrag og servicefradrag 2026](https://boligfiduser.dk/guides/haandvaerkerfradrag-2026/): I 2026 kan hver voksen i husstanden få op til 9.000 kr. i grønt håndværkerfradrag og op til 18.300 kr. i servicefradrag. Fradraget gælder kun arbejdsløn inkl. moms, ikke materialer, og skatteværdien er ca. 26 %. Et fuldt
+- [Sådan sammenligner du 3 håndværkertilbud](https://boligfiduser.dk/guides/saadan-sammenligner-du-tilbud/): Sammenlign håndværkertilbud ved først at sende samme skriftlige projektbeskrivelse til mindst tre firmaer. Opstil derefter tilbuddene i en skabelon med de samme poster, læg manglende ydelser til som tillæg, og tjek fast 
+- [Totalentreprise, hovedentreprise eller fagentreprise?](https://boligfiduser.dk/guides/totalentreprise-eller-fagentreprise/): I en totalentreprise står ét firma for både projektering og udførelse, og du har én aftalepart. I en hovedentreprise udfører én entreprenør alle fag efter dit færdige projekt. I fagentreprise indgår du selv kontrakt med 
+
+## Om
+- [Prisoversigt](https://boligfiduser.dk/prisoversigt/)
+- [Redaktionel politik og prismetode](https://boligfiduser.dk/redaktionel-politik/)
+- [Om os](https://boligfiduser.dk/om-os/)
